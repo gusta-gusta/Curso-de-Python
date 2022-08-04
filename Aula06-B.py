@@ -5,3 +5,5 @@ print(n.islower())
 #is alnum - alfa numerico
 #is upper - letras maiuscula
 #is lower - letras minuscula
+
+#O resultado será True ou False de acordo com oque se pede antes da variável
